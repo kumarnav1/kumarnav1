@@ -1,16 +1,20 @@
-### Hi there 👋
+### hey there 
+<a href="https://www.instagram.com/navneetroy_/">
+  <img align="left" alt="Navneet's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
-<!--
-**kumarnav1/kumarnav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=kumarnav1.kumarnav1)
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
+
+👋 Hi, I’m Navneet kumar
+
+👀 I’m interested in to learn new technology Based on Web Development, data science, etc
+
+🌱The skills I'm learning right now are Shell Programming, Java, MySQL ,HTML, CSS JavaScript.
+
+💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
+
+📫 You can reach throughout my e-mail "navkr007@gmail.com".
